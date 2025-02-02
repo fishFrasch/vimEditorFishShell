@@ -9,5 +9,3 @@ EOF
 cat << EOF >> $HOME/.config/fish/conf.d/vim_editor.fish
 set -gx EDITOR vim
 EOF
-
-exec fish
